@@ -1,13 +1,21 @@
 # hw2_Chen
 # Name: Jiayu Chen
-# Course: PHB 228, Assignment 2
-# Date: Apr 15th, 2025
-# Description: This script works with data structures and mapping functions in R.
+# Course: PHB 228 – Assignment 2
+# Date: April 15, 2025
+# Description: 
+#   This script explores data structures, mapping functions, and memory management in R.
+#   It is organized into four main parts:
 
-# Part 1: Version Control Setup
+#   Part 1: Version Control – Brief notes on using Git/GitHub for collaboration.
+#   Part 2: Data Structures – Demonstrates appropriate data types for different analysis scenarios.
+#   Part 3: Map Functions – Applies functions across lists and data frames using purrr::map and base R.
+#   Part 4: Memory Management – Highlights the benefit of pre-allocation and benchmarks performance.
 
-# Part 2: Data Structures
+# Dependencies:
+#   - tidyverse
+#   - palmerpenguins
+#   - microbenchmark
 
-# Part 3: Map Functions
-
-# Part 4: Memory Management
+# To run:
+#   Open hw2_Chen.R or hw2_Chen.Rmd and run all code chunks.
+#   For reproducible output, knit the .Rmd file to HTML or PDF.

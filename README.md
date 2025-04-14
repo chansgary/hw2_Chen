@@ -14,8 +14,6 @@
 # Dependencies:
 #   - tidyverse
 #   - palmerpenguins
-#   - microbenchmark
 
 # To run:
-#   Open hw2_Chen.R or hw2_Chen.Rmd and run all code chunks.
-#   For reproducible output, knit the .Rmd file to HTML or PDF.
+#   Open hw2_solutions.R and run all code chunks.
